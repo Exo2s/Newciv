@@ -64,7 +64,7 @@
 
 		"outerColor": [220,20,60],
 		"innerColor": [255,255,255],
-		"unique": "[+20]% [Strenght] <for non-[Wounded] units>",
+		"unique": ["[+20]% [Strenght] <for non-[Wounded] units>"],
 		"cities": ["Columbus","Cleveland","Cincinnati","Toledo","Akron","Dayton","Parma","Canton","Lorain","Hamilton","Youngstown","Springfield","Kettering","Elyria","Cuyahoga Falls","Middletown","Lakewood","Newark","Euclid","Dublin"
 			,"Mansfield","Mentor","Beavercreek","Strongsville","Cleveland Heights","Fairfield","Huber Heights","Delaware",
 			"Grove City","Reynoldsburg","Lancaster","Findlay","Warren","Westerville","Hillard","Upper Arlington",
