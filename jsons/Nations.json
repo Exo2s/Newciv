@@ -30,7 +30,7 @@
 		"outerColor": [220,20,60],
 		"innerColor": [255,255,255],
 		"uniqueName": "Hit'n'Die",
-		"uniques": ["[+2] Movement <for non-[Wounded] units>","[+20]% Strenght <for non-[Wounded] units>","[-1] Movement <for [Wounded] units>","[-20]% strenght <for [Wounded] units>"],
+		"uniques": ["[+2] Movement for non-[Wounded] units","[+20]% Strenght for non-[Wounded] units","[-1] Movement for [Wounded] units","[-20]% strenght for [Wounded] units"],
 		"cities": ["Columbus","Cleveland","Cincinnati","Toledo","Akron","Dayton","Parma","Canton","Lorain","Hamilton","Youngstown","Springfield","Kettering","Elyria","Cuyahoga Falls","Middletown","Lakewood","Newark","Euclid","Dublin"
 			,"Mansfield","Mentor","Beavercreek","Strongsville","Cleveland Heights","Fairfield","Huber Heights","Delaware",
 			"Grove City","Reynoldsburg","Lancaster","Findlay","Warren","Westerville","Hillard","Upper Arlington",
